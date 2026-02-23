@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**aviral911/aviral911** is a ✨ _special_ ✨ repository because its `README.md` (this file) a# 💫 About Me:
+# 💫 About Me:
 student <br>top mnc's<br>java <br>c programing<br>html<br>css<br>
 
 
@@ -21,16 +18,4 @@ student <br>top mnc's<br>java <br>c programing<br>html<br>css<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=aviral911&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->ppears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... java python and c
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...he 
-- ⚡ Fun fact: ... chess & cricket player 
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
