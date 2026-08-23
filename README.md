@@ -1,5 +1,5 @@
 # 💫 About Me:
-student <br>devloper<br>java <br>c programing<br>html<br>css<br><br>data science exper<br>
+student <br>devloper<br>java <br>c programing<br>html<br>css<br><br>data science expert<br>
 
 
 
