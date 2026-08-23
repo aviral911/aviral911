@@ -1,5 +1,6 @@
 # 💫 About Me:
-student <br>top mnc's<br>java <br>c programing<br>html<br>css<br>
+student <br>devloper<br>java <br>c programing<br>html<br>css<br><br>data science exper<br>
+
 
 
 ## 🌐 Socials:
