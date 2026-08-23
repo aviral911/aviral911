@@ -1,7 +1,23 @@
-# 💫 About Me:
-student <br>devloper<br>java <br>c programing<br>html<br>css<br><br>data science expert<br>
+# 💫 About Me:👋 Hi, I'm Aviral Pandey, a B.Tech CSE (AI & DS) student at GLA University.
 
+<br>💻 I'm passionate about Data Structures & Algorithms, Java, AI/ML, and Full-Stack Development. Currently, I'm focused on strengthening my problem-solving skills through regular coding and building real-world projects.
 
+🚀 I enjoy participating in hackathons, SIH, and team-based projects, where I work on turning ideas into practical solutions.
+
+🔧 Tech Stack
+Java • Python • C
+DSA & Problem Solving
+Git & GitHub
+Spring Boot • Node.js
+SQL • Supabase
+AI/ML
+
+📚 Currently Learning: Advanced DSA, Backend Development & AI/ML
+
+🎯 Goal: Become a strong software engineer and build impactful technology.
+
+⚡ Code. Learn. Build. Repeat.
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aviral__.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Https://www.linkedin.com/in/aviral-pandey-b3096637) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aviral Pandey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aviralpandey8604@gmail.com) 
