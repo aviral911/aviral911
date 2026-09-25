@@ -5,14 +5,14 @@
 🚀 I enjoy participating in hackathons, SIH, and team-based projects, where I work on turning ideas into practical solutions.
 
 🔧 Tech Stack
-Java • Python • C
+Java • Python 
 DSA & Problem Solving
 Git & GitHub
 Spring Boot • Node.js
-SQL • Supabase
-AI/ML
+Supabase
+AI/DS
 
-📚 Currently Learning: Advanced DSA, Backend Development & AI/ML
+📚 Currently Learning: Advanced DSA, Backend Development & AI/DS
 
 🎯 Goal: Become a strong software engineer and build impactful technology.
 
