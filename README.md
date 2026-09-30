@@ -1,6 +1,6 @@
 # 💫 About Me:👋 Hi, I'm Aviral Pandey, a B.Tech CSE (AI & DS) student at GLA University(Mathura).
 
-<br>💻 I'm passionate about Data Structures & Algorithms, Java, AI/ML, and Full-Stack Development. Currently, I'm focused on strengthening my problem-solving skills through regular coding and building real-world projects.
+<br>💻 I'm passionate about Data Structures & Algorithms, Java, AI/DS, and Full-Stack Development. Currently, I'm focused on strengthening my problem-solving skills through regular coding and building real-world projects.
 
 🚀 I enjoy participating in hackathons, SIH, and team-based projects, where I work on turning ideas into practical solutions.
 
