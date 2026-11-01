@@ -5,12 +5,14 @@
 🚀 I enjoy participating in hackathons, SIH, and team-based projects, where I work on turning ideas into practical solutions.
 
 🔧 Tech Stack
-Java • Python 
-DSA & Problem Solving
+HTML , CSS , JS
+React js , Tailwind CSS
+Java , c programming ,  Python
+DSA & Problem Solving skill , management skill
 Git & GitHub
 Spring Boot • Node.js
 Supabase
-AI/DS
+AI Data Science
 
 📚 Currently Learning: Advanced DSA, Backend Development & AI/DS
 
